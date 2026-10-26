@@ -1052,7 +1052,7 @@ form label {
     margin-top: 25px;
     background: url(../images/img-product23.png) no-repeat 95% 14px;
     background-size: 306px auto;
-;background-size:contain;}
+}
 
 .best {
     position: relative;
